@@ -46,8 +46,8 @@ body {
 .panel {
   background: rgba(0, 0, 0, 0.5);
   text-decoration: none;
-  width: 11.7em;
-  height: 10em;
+  width: 10.53em;
+  height: 9em;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -132,6 +132,6 @@ body {
 /* show on hover */
 .circular-menu:hover .panel {
   opacity: 1;
-  width: 11.7em;
-  height: 10em;
+  width: 10.53em;
+  height: 9em;
 }
